@@ -1,0 +1,22 @@
+id: D8B87A965
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T06:50:59+00:00'
+last_modified: '2022-05-29T08:06:22.359881+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    cf76:
+      image_group_id: I1PD95916
+      title: ཆོས་དང་ཆོས་ཉིད་རྣམ་པར་འབྱེད་པའི་འགྲེལ་པ།
+      total_pages: 1683
+      order: 71
+      base_file: cf76.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
